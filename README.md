@@ -1,5 +1,0 @@
-# TrainAndConf
-
-Trainning and Conferences
-
-## 
